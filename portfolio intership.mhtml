@@ -1,0 +1,228 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5500/my%20portfolio/index.html
+Subject: Kirti Rana | Portfolio
+Date: Sat, 2 Aug 2025 00:05:18 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--ZZJFlJTY2zId7agvubFTwbE47gQTll8wD52PErTewK----"
+
+
+------MultipartBoundary--ZZJFlJTY2zId7agvubFTwbE47gQTll8wD52PErTewK----
+Content-Type: text/html
+Content-ID: <frame-7EF5E2FB2FC301DA343D43817A2FE26A@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/my%20portfolio/index.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8">
+ =20
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0">
+  <title>Kirti Rana | Portfolio</title>
+  <link rel=3D"stylesheet" href=3D"http://127.0.0.1:5500/my%20portfolio/sty=
+le.css">
+</head>
+<body>
+
+<header>
+  =20
+  <h1>Kirti Rana</h1>
+  <p>Web Developer</p>
+</header>
+
+<nav>
+  <ul>
+    <li><a href=3D"http://127.0.0.1:5500/my%20portfolio/index.html#about">A=
+bout</a></li>
+    <li><a href=3D"http://127.0.0.1:5500/my%20portfolio/index.html#educatio=
+n">Education</a></li>
+    <li><a href=3D"http://127.0.0.1:5500/my%20portfolio/index.html#projects=
+">Projects</a></li>
+    <li><a href=3D"http://127.0.0.1:5500/my%20portfolio/index.html#skills">=
+Skills</a></li>
+<li><a href=3D"http://127.0.0.1:5500/my%20portfolio/index.html#contact">Con=
+tact</a></li>
+
+   =20
+
+  </ul>
+</nav>
+<section id=3D"about" class=3D"fade-in visible">
+  <h2>About Me</h2>
+  <p>
+    Hi! I'm <strong>Kirti Rana</strong>, a dedicated Computer Engineering s=
+tudent with a passion for creating responsive and animated websites.
+    I enjoy turning creative ideas into reality through clean and efficient=
+ code.
+    I specialize in HTML, CSS, JavaScript and love exploring modern web tec=
+hnologies.
+    <br><br>
+    My goal is to build user-friendly digital experiences and continue grow=
+ing as a front-end developer.
+    When I=E2=80=99m not coding, I love learning about UI/UX design and fol=
+lowing the latest tech trends.
+  </p>
+</section>
+
+
+
+
+
+<section id=3D"education" class=3D"fade-in visible">
+  <h2>Education</h2>
+  <ul>
+    <li>B.Tech in Computer Engineering - Sigma University (2022-2026)</li>
+    <li>Web Development Certification - Elitetech intern  (2025)</li>
+  </ul>
+</section>
+
+<section id=3D"projects" class=3D"fade-in">
+  <h2>Projects</h2>
+  <div class=3D"project-list">
+    <div class=3D"project-card">
+      <h3>Portfolio Website</h3>
+      <p>Responsive personal portfolio using HTML, CSS &amp; JS animations.=
+</p>
+    </div>
+    <div class=3D"project-card">
+      <h3>Online Learning Platform</h3>
+      <p>Platform supporting videos, quizzes &amp; progress tracking.</p>
+    </div>
+    <div class=3D"project-card">
+      <h3>Landing Page Animation</h3>
+      <p>Creative animated landing page using modern CSS &amp; JS libraries=
+.</p>
+    </div>
+  </div>
+</section>
+<section id=3D"skills" class=3D"fade-in">
+  <h2>Skills</h2>
+  <div class=3D"skills-list">
+    <div class=3D"skill">HTML</div>
+    <div class=3D"skill">CSS</div>
+    <div class=3D"skill">JavaScript</div>
+    <div class=3D"skill">Responsive Design</div>
+    <div class=3D"skill">Bootstrap</div>
+    <div class=3D"skill">Git &amp; GitHub</div>
+  </div>
+</section>
+
+<section id=3D"contact" class=3D"fade-in">
+  <h2>Contact</h2>
+  <form id=3D"contactForm">
+    <input type=3D"text" name=3D"name" placeholder=3D"Your Name" required=
+=3D"">
+    <input type=3D"email" name=3D"email" placeholder=3D"Your Email" require=
+d=3D"">
+    <textarea name=3D"message" placeholder=3D"Your Message" required=3D""><=
+/textarea>
+    <button type=3D"submit">Send Message</button>
+  </form>
+  <p id=3D"formStatus"></p>
+</section>
+
+
+
+
+
+
+
+<footer>
+  <p>=C2=A9 2025 Kirti Rana. All rights reserved.</p>
+</footer>
+
+
+<!-- Code injected by live-server -->
+
+
+
+</body></html>
+------MultipartBoundary--ZZJFlJTY2zId7agvubFTwbE47gQTll8wD52PErTewK----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/my%20portfolio/style.css
+
+@charset "utf-8";
+
+* { margin: 0px; padding: 0px; box-sizing: border-box; }
+
+body { font-family: "Segoe UI", sans-serif; color: rgb(51, 51, 51); backgro=
+und: linear-gradient(120deg, rgb(137, 247, 254), rgb(102, 166, 255)); line-=
+height: 1.6; }
+
+header { text-align: center; padding: 50px 20px; color: rgb(255, 255, 255);=
+ background: rgba(0, 0, 0, 0.4); }
+
+header h1 { font-size: 3em; }
+
+header p { font-size: 1.2em; }
+
+nav { background: rgba(0, 0, 0, 0.3); text-align: center; }
+
+nav ul { list-style: none; display: flex; justify-content: center; flex-wra=
+p: wrap; }
+
+nav li { margin: 10px 20px; }
+
+nav a { text-decoration: none; color: rgb(255, 255, 255); font-weight: bold=
+; font-size: 1.1em; transition: color 0.3s; }
+
+nav a:hover { color: rgb(255, 215, 0); }
+
+section { max-width: 900px; margin: 50px auto; padding: 20px; background: r=
+gba(255, 255, 255, 0.8); border-radius: 15px; }
+
+h2 { text-align: center; margin-bottom: 20px; }
+
+.project-list { display: grid; grid-template-columns: repeat(auto-fit, minm=
+ax(250px, 1fr)); gap: 20px; }
+
+.project-card { background: rgb(255, 255, 255); padding: 20px; border-radiu=
+s: 12px; box-shadow: rgba(0, 0, 0, 0.2) 0px 4px 10px; transition: transform=
+ 0.3s; }
+
+.project-card:hover { transform: translateY(-5px); }
+
+footer { text-align: center; padding: 15px; color: rgb(255, 255, 255); back=
+ground: rgba(0, 0, 0, 0.4); }
+
+.fade-in { opacity: 0; transform: translateY(30px); transition: opacity 1s =
+ease-out, transform 1s ease-out; }
+
+.fade-in.visible { opacity: 1; transform: translateY(0px); }
+
+@media (max-width: 600px) {
+  header h1 { font-size: 2em; }
+  nav a { font-size: 1em; }
+}
+
+.skills-list { display: flex; flex-wrap: wrap; gap: 10px; justify-content: =
+center; margin-top: 15px; }
+
+.skill { background: rgba(255, 255, 255, 0.2); color: rgb(203, 80, 80); pad=
+ding: 8px 15px; border-radius: 20px; font-weight: bold; transition: transfo=
+rm 0.3s, background 0.3s; }
+
+.skill:hover { transform: scale(1.1); background: rgb(102, 166, 255); }
+
+#contactForm { max-width: 500px; margin: 20px auto; display: flex; flex-dir=
+ection: column; }
+
+#contactForm input, #contactForm textarea { padding: 10px; margin-bottom: 1=
+0px; border: none; border-radius: 8px; font-size: 16px; }
+
+#contactForm button { padding: 10px; background: rgb(102, 166, 255); color:=
+ rgb(255, 255, 255); border: none; border-radius: 8px; font-size: 16px; cur=
+sor: pointer; transition: background 0.3s; }
+
+#contactForm button:hover { background: rgb(137, 247, 254); }
+
+#formStatus { text-align: center; color: rgb(255, 255, 255); margin-top: 10=
+px; }
+
+.fade-in { opacity: 0; transform: translateY(20px); transition: opacity 0.6=
+s ease-out, transform 0.6s ease-out; }
+
+.fade-in.visible { opacity: 1; transform: translateY(0px); }
+------MultipartBoundary--ZZJFlJTY2zId7agvubFTwbE47gQTll8wD52PErTewK------
